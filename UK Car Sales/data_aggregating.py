@@ -37,7 +37,7 @@ column_order.insert(0, "brand")
 column_order.pop()
 df_cars = df_cars[column_order]
 
-#Exporting one grand file in the working directory
+#Exporting one grand file into the working directory
 df_cars.to_csv("all_cars.csv", index=False)
 export_path = Path(os.getcwd() + "/all_cars.csv")
 if export_path.exists():
