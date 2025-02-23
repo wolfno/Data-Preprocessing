@@ -5,6 +5,6 @@ Dataset is taken from Kaggle: https://www.kaggle.com/datasets/hopesb/student-dep
 
 Author: Shodolamu Opeyem, retrieved 31 Jan 2025.
 
-On the Kaggle, the corresponding file has been provided, it is named *Data.csv* in this repository.
+On the Kaggle, the corresponding file has been provided, it is named **Data.csv** in this repository.
 
-Subsequently, the data has been preprocessed via the *data_cleaning.ipynb* file.
+Subsequently, the data has been preprocessed via the **data_cleaning.ipynb** file.
