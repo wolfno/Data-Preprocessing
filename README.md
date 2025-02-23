@@ -1,5 +1,5 @@
 # Data Preprocessing
-projects that are mainly about cleaning and preprocessing data for Machine Learning purposes
+projects that are mainly about cleaning, visualizing and preprocessing data for Machine Learning purposes
 
 * UK Car Sales: preprocessing data with **scikit** transformers and other tools
 
