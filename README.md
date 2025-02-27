@@ -3,4 +3,4 @@ projects about cleaning, visualizing and preprocessing data for Machine Learning
 
 * UK Car Sales: preprocessing data with **scikit** transformers and other tools
 
-* Student Health: manually cleaning data with **pandas** tools
+* Student Health: manually cleaning data with **numpy** and **pandas** 
