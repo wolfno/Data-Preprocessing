@@ -1,6 +1,11 @@
 # UK Car Sales
 100,000 scraped used car listings. 10 features, including numerical and categorical attributes.
 
+<br> </br>
+
+![alt text](https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/car_age.png)
+
+<br> </br>
 
 Data is taken from Kaggle: https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes
 
