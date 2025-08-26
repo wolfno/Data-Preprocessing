@@ -10,7 +10,7 @@
 
 <br></br>
 **Tools and Data:**
-* Python, Matplotlib
+* Python, Matplotlib, Seaborn
 * [Kaggle Dataset](https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes)
 
 <br></br>
