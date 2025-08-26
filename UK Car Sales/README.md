@@ -1,10 +1,10 @@
 ## Second-Hand Car Sales
 
-#### A project in which I visualized data from a UK second-hand car sales platform.
+#### A project in which I visualized data from a second-hand car sales platform.
 
 <br> </br>
 **Goals:**
-* Showcasing hands-on experience with Python and **Matplotlib**
+* Showcasing hands-on experience with Python and **Matplotlib**, **Seaborn**
 * Creating valuable graphs for my GitHub portfolio
 * Creating insights from publicly available data
 
