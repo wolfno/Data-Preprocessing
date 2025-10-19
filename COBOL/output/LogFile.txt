@@ -1,0 +1,67 @@
+Log-Datei für KundenaufgabeH.exe
+ Start des Programms: 17.10.25 um 15:59:58 Uhr
+
+******************************************
+
+Zeile ist leer. Nächste Zeile lesen ...
+Fehler: Kundendatei 2, Zeile 00003.
+
+Erstellzeit:   20250930205960	   Uhrzeitprüfung Sekunde
+Fehler: Kundendatei 2, Zeile 00004.
+
+Zeile ist leer. Nächste Zeile lesen ...
+Fehler: Kundendatei 2, Zeile 00007.
+
+Erstellzeit:   20251232140122	   Tagprüfung
+Fehler: Kundendatei 2, Zeile 00012.
+
+Erstellzeit:   20250931115530	   Tagprüfung
+Fehler: Kundendatei 2, Zeile 00013.
+
+Gültig ab:     20250229 	   Schaltjahrfehler
+Fehler: Kundendatei 2, Zeile 00014.
+
+Gültig ab:     2025C913 	   Numeric-Check
+Fehler: Kundendatei 2, Zeile 00016.
+
+Zeile ist leer. Nächste Zeile lesen ...
+Fehler: Kundendatei 1, Zeile 00010.
+
+Kunden-ID:     0000033ABCD1290	   Numeric-Check
+Fehler: Kundendatei 2, Zeile 00018.
+
+Postleitzahl:  0000000000X9X9X	   Numeric-Check
+Fehler: Kundendatei 2, Zeile 00019.
+
+Erstellzeit:   20251309151515	   Monatprüfung
+Fehler: Kundendatei 2, Zeile 00020.
+
+Zeile ist leer. Nächste Zeile lesen ...
+Fehler: Kundendatei 2, Zeile 00021.
+
+Erstellzeit:   20250905241717	   Uhrzeitprüfung Stunde
+Fehler: Kundendatei 2, Zeile 00025.
+
+Zeile ist leer. Nächste Zeile lesen ...
+Fehler: Kundendatei 2, Zeile 00026.
+
+Gültig ab:     19000229 	   Schaltjahrfehler
+Fehler: Kundendatei 2, Zeile 00027.
+
+Zeile ist leer. Nächste Zeile lesen ...
+Fehler: Kundendatei 1, Zeile 00019.
+
+Gültig ab:     21000229 	   Schaltjahrfehler
+Fehler: Kundendatei 2, Zeile 00029.
+
+Erstellzeit:   2025082610101X	   Numeric-Check
+Fehler: Kundendatei 2, Zeile 00030.
+
+******************************************
+ Anzahl gelesener Zeilen: 00026 + 00031 = 00057
+ Anzahl der Zeilen mit Fehler: 00018.
+ Anzahl der leeren Zeilen: 00006.
+
+ Ende des Programms:  17.10.25 um 15:59:58 Uhr
+
+
