@@ -1,7 +1,7 @@
 # CobolMerge
 
 
-Dieses Repository enthält ein COBOL-Programm, das zwei Adressdateien zusammenführt. Die Eingabedateien haben denselben Aufbau und beinhalten die folgenden Felder:
+Dieses Repository enthält ein COBOL-Programm, das zwei Adressdateien zusammenführt. Die Eingabedateien Kunde1.txt und Kunde2.txt wurden KI-generiert und enthalten fiktive Daten. Sie haben denselben Aufbau und beinhalten die folgenden Felder:
 
 * Kundennummer (zehnstellig)
 
