@@ -1,5 +1,5 @@
 # CobolMerge
-projects about cleaning, visualizing and preprocessing data for Machine Learning purposes
+
 
 Dieses Repository enthält ein COBOL-Programm, das zwei Adressdateien zusammenführt. Die Eingabedateien haben denselben Aufbau und beinhalten die folgenden Felder:
 
@@ -17,12 +17,6 @@ Dieses Repository enthält ein COBOL-Programm, das zwei Adressdateien zusammenf�
 
 * Hausnummer (fünfstellig)
 
-<br> </br>
-
-## Anforderungen:
-
-### Eingabedateien:
-
 Beide Eingabedateien sind nach den folgenden Kriterien sortiert:
 
 * Kundennummer (aufsteigend)
@@ -30,6 +24,8 @@ Beide Eingabedateien sind nach den folgenden Kriterien sortiert:
 * GLTGAB (aufsteigend)
 
 * Timestamp (absteigend)
+
+<br> 
 
 ## Verarbeitung:
 
@@ -49,17 +45,21 @@ Ungültige oder fehlerhafte Datensätze werden im Log protokolliert und überspr
 
 Es wird geprüft, ob die Eingabedaten tatsächlich der erwarteten Sortierreihenfolge entsprechen. Wenn eine Abweichung festgestellt wird, bricht das Programm ab und protokolliert den Fehler.
 
-## Ausgabe:
+<br> 
 
-Eine Ausgabedatei wird erstellt, die das zusammengeführte Ergebnis in demselben Format wie die Eingabedateien enthält.
+## Ausgabedatei:
 
-Zusätzlich wird eine Protokolldatei erstellt, die folgende Informationen enthält:
+Eine Ausgabedatei MergeOut.txt wird erstellt, die das zusammengeführte Ergebnis in demselben Format wie die Eingabedateien enthält.
+
+Zusätzlich wird eine Protokolldatei LogFile.txt erstellt, die folgende Informationen enthält:
 
 * Start- und Endzeitpunkt des Programmlaufs
 
 * Anzahl der verarbeiteten Datensätze in den Eingabe- und Ausgabedateien
 
 * Protokollierung von Fehlern und ungültigen Datensätzen
+
+<br> 
 
 ## Features:
 
